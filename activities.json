@@ -1,0 +1,45 @@
+{
+    "firstName": "Alex",
+    "lastName": "Vitek",
+    "activities": [
+        {
+            "name": "Daytrip to Croton-on-Hudson",
+            "dateStart": "3/13/24",
+            "dateEnd": "3/14/24",
+            "description": "During Spring Break I went with my friend Anders up to his house in Croton",
+            "wouldRepeat": "true"
+        }
+
+        {
+            "name": "Visit to the Guggenheim",
+            "dateStart": "3/15/24",
+            "dateEnd": "3/15/24",
+            "description": "Went to the Guggenheim to look at art during Spring Break",
+            "wouldRepeat": "true"
+        }
+
+        {
+            "name": "Ate a Vegan Confetti Cake",
+            "dateStart": "3/18/24",
+            "dateEnd": "3/18/24",
+            "description": "Got a vegan confetti cake from the UC for breakfast",
+            "wouldRepeat": "false"
+        }
+
+        {
+            "name": "Took a walk to Washington Square Park",
+            "dateStart": "3/21/24",
+            "dateEnd": "3/21/24",
+            "description": "After finishing my second class I took a lil stroll",
+            "wouldRepeat": "true"
+        }
+
+        {
+            "name": "All-Nighter",
+            "dateStart": "3/20/24",
+            "dateEnd": "3/20/24",
+            "description": "Pulled an all-nighter to get work done",
+            "wouldRepeat": "false"
+        }
+    ]
+}
